@@ -6,7 +6,7 @@ Esse projeto é um dashboard responsivo, trabalhando técnica de "menu aside" e 
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Passo-A-Passo">Passo-A-Passo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Ensino">Ensino</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -26,6 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML, CSS e JS
 - Git, Github
 
-## 🔖 Passo-A-Passo
+## 🔖 Ensino
 
 Você pode visualizar o passo-a-passo do projeto através [DESSE LINK](https://www.youtube.com/watch?v=D88K1esxwuo).
